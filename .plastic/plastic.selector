@@ -1,0 +1,4 @@
+repository "muzintou2/sabaibaru@15669603138488@cloud"
+  path "/"
+    br "/main"
+    co "/main"
